@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2240C657-4418-4B90-BC9E-473E5C2A3601"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "898CDD37-C0CD-432A-9C5B-703557AEA223"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinalYearProjectLegoLike/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "898CDD37-C0CD-432A-9C5B-703557AEA223 - b844e38424ce8f7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalYearProjectLegoLike.ViewController.sceneView.getter : Swift.Optional&lt;__C.ARSCNView&gt;"
+                  moduleName = "FinalYearProjectLegoLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maryam/Desktop/FinalYearProjectLegoLike/FinalYearProjectLegoLike/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "898CDD37-C0CD-432A-9C5B-703557AEA223 - 342ecc7bc1904b67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalYearProjectLegoLike.ViewController.sceneView.setter : Swift.Optional&lt;__C.ARSCNView&gt;"
+                  moduleName = "FinalYearProjectLegoLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maryam/Desktop/FinalYearProjectLegoLike/FinalYearProjectLegoLike/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "898CDD37-C0CD-432A-9C5B-703557AEA223 - d91334cb993d3109"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalYearProjectLegoLike.ViewController.sceneView.modify : Swift.Optional&lt;__C.ARSCNView&gt;"
+                  moduleName = "FinalYearProjectLegoLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maryam/Desktop/FinalYearProjectLegoLike/FinalYearProjectLegoLike/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "898CDD37-C0CD-432A-9C5B-703557AEA223 - 42f47e0d87341d27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalYearProjectLegoLike.ViewController.sceneView.modify : Swift.Optional&lt;__C.ARSCNView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FinalYearProjectLegoLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maryam/Desktop/FinalYearProjectLegoLike/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "898CDD37-C0CD-432A-9C5B-703557AEA223 - d4b803ddda8cb5ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalYearProjectLegoLike.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FinalYearProjectLegoLike.ViewController"
+                  moduleName = "FinalYearProjectLegoLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maryam/Desktop/FinalYearProjectLegoLike/FinalYearProjectLegoLike/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "898CDD37-C0CD-432A-9C5B-703557AEA223 - 1ae10de10861cc47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalYearProjectLegoLike.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FinalYearProjectLegoLike.ViewController&gt;"
+                  moduleName = "FinalYearProjectLegoLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maryam/Desktop/FinalYearProjectLegoLike/FinalYearProjectLegoLike/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "584">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB02A396-B407-4258-8AB6-CA80BF39EA67"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinalYearProjectLegoLike/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "removeAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AB02A396-B407-4258-8AB6-CA80BF39EA67 - 50957048cab95108"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalYearProjectLegoLike.ViewController.removeAction(Any) -&gt; ()"
+                  moduleName = "FinalYearProjectLegoLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maryam/Desktop/FinalYearProjectLegoLike/FinalYearProjectLegoLike/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "AB02A396-B407-4258-8AB6-CA80BF39EA67 - 50957048cab951e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalYearProjectLegoLike.ViewController.removeAction(Any) -&gt; ()"
+                  moduleName = "FinalYearProjectLegoLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maryam/Desktop/FinalYearProjectLegoLike/FinalYearProjectLegoLike/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CA490A0-ACBB-4C9E-BD32-DE99262FFD9C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinalYearProjectLegoLike/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "325"
+            endingLineNumber = "325"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
