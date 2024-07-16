@@ -41,5 +41,4 @@ Describe the steps to run the app on an iPad:
 
 Once App ran, the app is ready on the iPad. Start learning programming by click on the button with "?"
 
-# Video explination
-https://www.youtube.com/watch?v=KHmyT_7SVNo
+
